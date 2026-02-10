@@ -14,7 +14,7 @@ python src/test.py --model models/best_model.pth
 
 ## Some results
 | models | Precision | Recall | HTER |
-|:-------- |:--------:| :--------:|--------:|
+| || ||
 | CNN v1   | 0.765   | 0.913   | 0.172    |
 |:-------- |:--------:| :--------:| --------:|
 | CNN v2   | 0.749   | 0.918    | 0.178    |
