@@ -20,7 +20,7 @@ python src/test.py --model models/best_model.pth
 | CNN v2   | 0.749   | 0.918    | 0.178    |
 |:-------- |:--------:| :--------:|--------:|
 | ResNet v1| 0.841   | 0.967    | 0.099    |
-| || | |
+||| | |
 | ResNet v2| 0.795   | 0.966   | 0.124    |
 
 First tests :
